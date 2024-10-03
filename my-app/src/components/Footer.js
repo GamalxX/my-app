@@ -117,7 +117,7 @@ const Footer = () => {
                 <a
                   target="_blank"
                   rel="noopener noreferrer"
-                  href="https://www.linkedin.com/in/prasanth-n-612312252/"
+                  href="*"
                 >
                   Linkdin
                 </a>
@@ -126,7 +126,7 @@ const Footer = () => {
                 <a
                   target="_blank"
                   rel="noopener noreferrer"
-                  href="https://github.com/Prasanth-Nagulapalli"
+                  href="https://github.com/GamalxX"
                 >
                   GitHub
                 </a>
